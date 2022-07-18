@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280601519438",
+    "project_id": "vandana-school",
+    "storage_bucket": "vandana-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280601519438:android:0641a8343f24c7fbe8ea1f",
+        "android_client_info": {
+          "package_name": "com.vandanaschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280601519438-2gqebcndne60rhf8bm2bh0h2ope8ee7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Bj_yM7BL0hDBBWs6Kmy36Zeus_nUx7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280601519438-2gqebcndne60rhf8bm2bh0h2ope8ee7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
